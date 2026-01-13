@@ -1,0 +1,26 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:interfaces////PointingToDeclaration/-git-hub-classroom-template/interfaces/index.html
+$dokka.location:interfaces/MyInterface///PointingToDeclaration/-git-hub-classroom-template/interfaces/-my-interface/index.html
+$dokka.location:models////PointingToDeclaration/-git-hub-classroom-template/models/index.html
+$dokka.location:models/MyModel///PointingToDeclaration/-git-hub-classroom-template/models/-my-model/index.html
+$dokka.location:models/MyModel/MyModel/#/PointingToDeclaration/-git-hub-classroom-template/models/-my-model/-my-model.html
+$dokka.location:models/MyModel/function/#/PointingToDeclaration/-git-hub-classroom-template/models/-my-model/function.html
+$dokka.location:org.example.controllers////PointingToDeclaration/-git-hub-classroom-template/org.example.controllers/index.html
+$dokka.location:org.example.controllers/Activitat 1Kt///PointingToDeclaration/-git-hub-classroom-template/org.example.controllers/-activitat 1-kt/index.html
+$dokka.location:org.example.controllers/Activitat 1Kt/llegirFrases/#java.util.Scanner#java.nio.file.Path/PointingToDeclaration/-git-hub-classroom-template/org.example.controllers/-activitat 1-kt/llegir-frases.html
+$dokka.location:org.example.controllers/Activitat 1Kt/main/#/PointingToDeclaration/-git-hub-classroom-template/org.example.controllers/-activitat 1-kt/main.html
+$dokka.location:org.example.controllers/Activitat 2Kt///PointingToDeclaration/-git-hub-classroom-template/org.example.controllers/-activitat 2-kt/index.html
+$dokka.location:org.example.controllers/Activitat 2Kt/creacioFitxers/#java.nio.file.Path#java.util.Scanner/PointingToDeclaration/-git-hub-classroom-template/org.example.controllers/-activitat 2-kt/creacio-fitxers.html
+$dokka.location:org.example.controllers/Activitat 2Kt/main/#/PointingToDeclaration/-git-hub-classroom-template/org.example.controllers/-activitat 2-kt/main.html
+$dokka.location:org.example.controllers/Activitat 3Kt///PointingToDeclaration/-git-hub-classroom-template/org.example.controllers/-activitat 3-kt/index.html
+$dokka.location:org.example.controllers/Activitat 3Kt/main/#/PointingToDeclaration/-git-hub-classroom-template/org.example.controllers/-activitat 3-kt/main.html
+$dokka.location:org.example.controllers/Activitat 3Kt/manipulacioDeFitxers/#java.nio.file.Path#java.util.Scanner/PointingToDeclaration/-git-hub-classroom-template/org.example.controllers/-activitat 3-kt/manipulacio-de-fitxers.html
+$dokka.location:utilities////PointingToDeclaration/-git-hub-classroom-template/utilities/index.html
+$dokka.location:utilities/MyUtilsKt///PointingToDeclaration/-git-hub-classroom-template/utilities/-my-utils-kt/index.html
+$dokka.location:utilities/MyUtilsKt/readSomething/#/PointingToDeclaration/-git-hub-classroom-template/utilities/-my-utils-kt/read-something.html
+interfaces
+models
+org.example.controllers
+utilities
+
