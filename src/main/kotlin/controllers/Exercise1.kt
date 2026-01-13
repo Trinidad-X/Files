@@ -13,6 +13,17 @@ fun main() {
 }
 
 
+/**
+ * Saves user input into a file.
+ *
+ * This function clears the file before writing and saves the user's input in a file.
+ *
+ * Special behavior:
+ * - Each non-empty line is appended to the file with a newline.
+ *
+ * @param fileName The name (or path) of the file where the text will be saved.
+ * @author Trinidad Diez
+ */
 fun saveInFile(fileName: String) {
     val message = "Insert text you want to save in a file in the terminal."
     printInConsole(message)
